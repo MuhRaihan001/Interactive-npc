@@ -21,7 +21,7 @@ The NPC interaction system is designed to enable players to interact with non-pl
 To integrate the NPC interaction system into your Pawn script, follow these steps:
 
 1. Copy the provided `npc.pwn` and `main.pwn` scripts into your project directory.
-2. Include `npc.pwn` in your main script using `#include <npc>`.
+2. Include `npc.pwn` in your main script using `#include "path to npc.pwn"`.
 3. Ensure that the functions from `npc.pwn` are appropriately called in your game logic.
 
 ## Usage
