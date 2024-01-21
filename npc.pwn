@@ -31,7 +31,7 @@ stock LoadNpc()
 	    if(i >= MAX_NPC)
 	        break;
 	}
-	print("[RyuX] Semua Npc Telah Di muat");
+	print("[RyuX] Semua Npc Dari RyuX Telah Di muat");
 	return 1;
 }
 
